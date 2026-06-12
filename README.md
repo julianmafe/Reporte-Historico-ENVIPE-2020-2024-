@@ -48,6 +48,9 @@ Ej: Si obtuviste como directorio "C:\Users\user\Downloads" en el codigo deberias
 7. Instala las librerias mostradas un poco más atras en este mismo repositorio.
 8. Compila el codigo dando click en "Knit" luego en "Knit to Html" (sugerencia).
 
+# Visualización Rapida
+Se anexa el documento "ProyectoFInal.html" el cual te permitira revisar el producto final al compilar el codigo sin necesidad de descargar las bases de datos o modificar el codigo.
+
 # Integrantes de Equipo
 - Martínez Feregrino José Julián (Repositor)
 - Hernández Camacho Carolina
