@@ -31,6 +31,7 @@ library(tidyverse)
 
 # Instalacion de Librerias
 Copia, pega y corre la siguiente linea en la consola de R antes de correr el codigo:
+
 install.packages(c("dplyr", "ggplot2", "tidyr", "forcats", "scales", "stringr", "maps", "ggrepel", "tidyverse"))
 
 # Requisitos
