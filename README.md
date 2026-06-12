@@ -11,14 +11,23 @@ El proyecto genera distintos productos analíticos y visuales a partir de los mi
 
 # Librerias
 library(dplyr)
+
 library(ggplot2)
+
 library(tidyr)
+
 library(forcats)
+
 library(scales)
+
 library(stringr)
+
 library(maps)
+
 library(ggrepel)
+
 library(tidyverse)
+
 
 # Instalacion de Librerias
 Copia, pega y corre la siguiente linea en la consola de R antes de correr el codigo:
